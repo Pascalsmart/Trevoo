@@ -1,0 +1,980 @@
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 1201PX TILL ...*/
+
+@media only screen and (min-width:1201px){
+
+    .black-bttn{
+
+        height:2.4rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.2rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        transition: all 0.5s ease-in-out;
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+
+     .green-bttn{
+        background: rgb(7, 7, 7);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 30%;
+        color: white;
+     }   
+
+      .green2-bttn{
+        background: rgb(7, 7, 7);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        margin: 0 0 1rem 0;
+        width: 40%;
+        transition: all 0.5s ease-in-out;
+     }  
+
+     .green2-bttn:hover{
+       background: rgb(48, 47, 47);
+       cursor: pointer;
+     }
+
+     .blue-bttn{
+        height: 2.6rem;
+        background: rgba(31, 31, 38, 0.666);
+        border-radius: 1.5rem;
+        box-shadow: 5px 3px 6px 2px rgba(16, 16, 16, 0.661);
+        width: 38%;
+        font-weight: bold;
+        font-size: 1rem;
+        border: 2px solid rgba(22, 21, 21, 0.41); 
+        cursor: pointer;
+        transition: all 0.5s ease-in-out;        
+     }
+
+    .blue-bttn:hover{
+        background:rgba(119, 119, 120, 0.137);
+     }
+
+     .set-bttn{
+          height: 2.7rem;
+                    background: rgb(37, 37, 37);
+                    border-radius: 1.5rem;
+                    width: 160%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.5s ease-in-out;
+                
+     }
+     .set-bttn:hover{
+        background: rgb(110, 109, 109);
+        cursor: pointer;
+     }
+     .got-bttn{
+         height: 2.7rem;
+                    background: rgb(248, 248, 248);
+                    border-radius: 1.5rem;
+                    width: 140%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    color: black;
+     }
+     .got-bttn:hover{
+        background: rgb(238, 237, 237);
+        cursor: pointer;
+     }
+
+     .hat-bttn{
+        height: 2.7rem;
+                    background: rgb(110, 109, 109);
+                    border-radius: 1.5rem;
+                    width: 160%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: 2px solid rgba(12, 12, 12, 0.41);
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.7s ease-in-out;
+                    color: white;
+     }
+     .hat-bttn:hover{
+        background: rgb(165, 164, 164);
+        cursor: pointer;
+     }
+    
+
+    
+
+}
+
+
+@media only screen and (min-width:1025px) and (max-width:1200px){
+        .black-bttn{
+
+        height:2.4rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.2rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 140%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+
+        .green-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 30%;
+     }   
+
+      .green2-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.8rem;
+        border: none;
+        width: 42%;
+     }  
+
+
+       .blue-bttn{
+        height: 2.6rem;
+        background: rgba(0, 0, 255, 0.666);
+        border-radius: 1.5rem;
+        box-shadow: 5px 3px 6px 2px rgba(51, 49, 110, 0.661);
+        width: 38%;
+        font-weight: bold;
+        font-size: 1rem;
+        margin: 1rem 0 0 0 ;
+        border: 2px solid rgba(22, 21, 21, 0.41); 
+        
+     }
+
+
+     .set-bttn{
+          height: 2.7rem;
+                    background: rgb(73, 145, 95);
+                    border-radius: 1.5rem;
+                    width: 160%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                
+     }
+     .got-bttn{
+         height: 2.7rem;
+                    background: rgb(248, 248, 248);
+                    border-radius: 1.5rem;
+                    width: 130%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    color: black;
+     }
+
+          .hat-bttn{
+        height: 2.7rem;
+                    background: rgb(11, 11, 11);
+                    border-radius: 1.5rem;
+                    width: 160%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: 2px solid rgba(251, 251, 251, 0.41);
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.7s ease-in-out;
+                    color: white;
+     }
+     .hat-bttn:hover{
+        background: rgb(110, 109, 109);
+        cursor: pointer;
+     }
+
+}
+
+@media only screen and (min-width:769px) and (max-width :1024px){
+           .black-bttn{
+
+        height:2.4rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.2rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 140%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+
+         .green-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+        border: none;
+        width: 21%;
+     }   
+
+      .green2-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+        border: none;
+        width: 30%;
+     }  
+
+     .blue-bttn{
+        height: 2.7rem;
+        background: rgba(0, 0, 255, 0.666);
+        border-radius: 1.5rem;
+        box-shadow: 5px 3px 6px 2px rgba(51, 49, 110, 0.661);
+        width: 32%;
+        font-weight: bold;
+        font-size: 1rem;
+        margin: 1rem 0 0 0 ;
+        border: 2px solid rgba(22, 21, 21, 0.41); 
+        
+     }
+
+          .set-bttn{
+          height: 2.7rem;
+                    background: rgb(73, 145, 95);
+                    border-radius: 1.5rem;
+                    width: 20%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                
+     }
+     .got-bttn{
+         height: 2.7rem;
+                    background: rgb(248, 248, 248);
+                    border-radius: 1.5rem;
+                    width: 25%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 1rem 0 0 0;
+                    font-weight:bold;
+                    color: black;
+     }
+
+             .hat-bttn{
+        height: 2.7rem;
+                    background: rgb(11, 11, 11);
+                    border-radius: 1.5rem;
+                    width: 160%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: 2px solid rgba(251, 251, 251, 0.41);
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.7s ease-in-out;
+                    color: white;
+     }
+     .hat-bttn:hover{
+        background: rgb(110, 109, 109);
+        cursor: pointer;
+     }
+}
+
+@media only screen and (min-width :600px) and (max-width :768px) {
+               .black-bttn{
+
+        height:2.4rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.2rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 140%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+
+
+         .green-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+        border: none;
+        width: 23%;
+     }   
+
+      .green2-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+        border: none;
+        width: 33%;
+     }  
+
+     .blue-bttn{
+        height: 2.7rem;
+        background: rgba(0, 0, 255, 0.666);
+        border-radius: 1.5rem;
+        box-shadow: 5px 3px 6px 2px rgba(51, 49, 110, 0.661);
+        width: 32%;
+        font-weight: bold;
+        font-size: 1rem;
+        margin: 1rem 0 0 0 ;
+        border: 2px solid rgba(22, 21, 21, 0.41); 
+        
+     }
+
+         .set-bttn{
+          height: 2.7rem;
+                    background: rgb(73, 145, 95);
+                    border-radius: 1.5rem;
+                    width: 20%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                
+     }
+     .got-bttn{
+         height: 2.7rem;
+                    background: rgb(248, 248, 248);
+                    border-radius: 1.5rem;
+                    width: 25%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 1rem 0 0 0;
+                    font-weight:bold;
+                    color: black;
+     }
+
+            .hat-bttn{
+        height: 2.7rem;
+                    background: rgb(110, 109, 109);
+                    border-radius: 1.5rem;
+                    width: 160%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: 2px solid rgba(20, 20, 20, 0.41);
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.7s ease-in-out;
+                    color: white;
+     }
+     .hat-bttn:hover{
+        background: rgb(209, 208, 208);
+        cursor: pointer;
+     }
+
+      .pink-bttn{
+         background: rgb(73, 145, 95);
+        height: 3rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 38%;
+     }
+     .grey-bttn{
+         background: rgb(73, 145, 95);
+        height: 3rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 44%;
+     }
+}
+
+@media only screen and (min-width:481px) and (max-width :599px){
+      .black-bttn{
+
+        height:2.4rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.2rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 140%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+
+
+           .green-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+        border: none;
+        width: 28%;
+     }   
+
+      .green2-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.8rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 40%;
+     }
+
+
+     .blue-bttn{
+        height: 2.7rem;
+        background: rgba(0, 0, 255, 0.666);
+        border-radius: 1.5rem;
+        box-shadow: 5px 3px 6px 2px rgba(51, 49, 110, 0.661);
+        width: 32%;
+        font-weight: bold;
+        font-size: 1rem;
+        margin: 1rem 0 0 0 ;
+        border: 2px solid rgba(22, 21, 21, 0.41); 
+        
+     }
+
+        .set-bttn{
+          height: 2.8rem;
+                    background: rgb(73, 145, 95);
+                    border-radius: 1.5rem;
+                    width: 30%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                
+     }
+     .got-bttn{
+         height: 2.8rem;
+                    background: rgb(248, 248, 248);
+                    border-radius: 1.5rem;
+                    width: 34%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 1rem 0 0 0;
+                    font-weight:bold;
+                    color: black;
+     }
+
+        .hat-bttn{
+        height: 2.4rem;
+                    background: rgb(110, 109, 109);
+                    border-radius: 1.5rem;
+                    width: 145%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: 2px solid rgba(20, 20, 20, 0.41);
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.7s ease-in-out;
+                    color: white;
+     }
+     .hat-bttn:hover{
+        background: rgb(209, 208, 208);
+        cursor: pointer;
+     }
+
+     .pink-bttn{
+         background: rgb(73, 145, 95);
+        height: 3rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 45%;
+     }
+     .grey-bttn{
+         background: rgb(73, 145, 95);
+        height: 3rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 55%;
+     }
+}
+
+@media only screen and (min-width :600px) and (max-width :768px) {
+               .black-bttn{
+
+        height:2.4rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.2rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.3rem;
+        border-radius: 1.7rem;
+        width: 140%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+}
+
+@media only screen and (min-width:320px) and (max-width :480px){
+          .black-bttn{
+
+        height:2.2rem;
+        background:rgba(5, 4, 4, 0.797);
+        color:white;
+        font-weight:500;
+        font-family:"Inter",sans-serif;
+        border-radius:1.6rem;
+        border:2px solid black;
+        cursor: pointer;
+        width: 150%;
+       
+        
+    }
+    .light-bttn{
+        height: 2.1rem;
+         background: rgba(236, 236, 236, 0.351);
+        color: rgb(155, 154, 154);
+        font-family: "Inter",sans-serif;
+        font-weight: 400;
+        border-radius: 1.6rem;
+        width: 150%;
+        font-family: "Inter", sans-serif;
+        border: 2px solid rgba(210, 208, 208, 0.41); 
+        cursor: pointer;
+        
+       
+        
+    }
+    .long-bttn{
+        height: 2.1rem;
+        border-radius: 1.7rem;
+        width: 130%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+         background: rgba(236, 236, 236, 0.351);
+         color: rgb(155, 154, 154);
+         border: 2px solid rgba(210, 208, 208, 0.41); 
+         cursor: pointer;
+       
+    }
+    .medium-bttn{
+        height: 2.1rem;
+        border-radius: 1.7rem;
+        width: 140%;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        background: rgba(186, 185, 185, 0.192);
+        color: rgb(94, 94, 94);
+        border:2px solid rgb(169, 168, 168);
+        
+    }
+     .medium-bttn:hover{
+            background:rgba(142, 141, 141, 0.192);
+            cursor:pointer;
+        }
+
+
+             .green-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.7rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 37%;
+     }   
+
+      .green2-bttn{
+        background: rgb(73, 145, 95);
+        height: 2.7rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.8rem;
+        border: none;
+        width: 55%;
+     }
+
+     .blue-bttn{
+        height: 2.7rem;
+        background: rgba(0, 0, 255, 0.666);
+        border-radius: 1.5rem;
+        box-shadow: 5px 3px 6px 2px rgba(51, 49, 110, 0.661);
+        width: 44%;
+        font-weight: bold;
+        font-size: 0.9rem;
+        margin: 1rem 0 0 0 ;
+        border: 2px solid rgba(22, 21, 21, 0.41); 
+        
+     }
+
+       .set-bttn{
+          height: 2.8rem;
+                    background: rgb(73, 145, 95);
+                    border-radius: 1.5rem;
+                    width: 45%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                
+     }
+     .got-bttn{
+         height: 2.8rem;
+                    background: rgb(248, 248, 248);
+                    border-radius: 1.5rem;
+                    width: 55%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: none;
+                    margin: 1rem 0 0 0;
+                    font-weight:bold;
+                    color: black;
+     }
+
+        .hat-bttn{
+        height: 2.4rem;
+                    background: rgb(110, 109, 109);
+                    border-radius: 1.5rem;
+                    width: 157%;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    border: 2px solid rgba(20, 20, 20, 0.41);
+                    margin: 0 0 0 0;
+                    font-weight:bold;
+                    transition: all 0.7s ease-in-out;
+                    color: white;
+     }
+     .hat-bttn:hover{
+        background: rgb(209, 208, 208);
+        cursor: pointer;
+     }
+
+     .pink-bttn{
+         background: rgb(73, 145, 95);
+        height: 3rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 70%;
+     }
+     .grey-bttn{
+         background: rgb(73, 145, 95);
+        height: 3rem;
+        border-radius: 1.6rem;
+        font-family: "Inter",sans-serif;
+        font-weight: bold;
+        font-size: 0.9rem;
+        border: none;
+        width: 80%;
+     }
+}

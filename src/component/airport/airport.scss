@@ -1,0 +1,334 @@
+@media only screen and (min-width:1201px){
+#kettle{
+        width:75%;
+        margin:11rem auto 0;
+        height:auto;
+        display:flex;
+        justify-content:space-between;
+        
+
+        #pot{
+            width:140%;
+            height:19rem;
+            margin: 0 8rem 0 0;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+        #pretty{
+            width:110%;
+            height:15rem;
+            margin: 0 auto;
+            
+            color:gray;
+            h1{
+                color: rgb(16, 16, 16);
+                margin: -0.5rem 0 1rem 0;
+            }
+        
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 1rem 0;
+                font-size: 1.3rem;
+            }
+
+            #mew{
+                display: flex;
+                justify-content: space-between;
+                width: 59%;
+                margin: 1.6rem 0 0 0;
+            
+            }
+        }
+
+    }
+}  
+
+@media only screen and (min-width: 1025px) and (max-width:1200px){
+    #kettle{
+        width:95%;
+        margin:11rem auto 0;
+        height:auto;
+        display:flex;
+        justify-content:space-between;
+        
+
+        #pot{
+            width:99%;
+            height:15rem;
+            margin: 0 8rem 0 0;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+        #pretty{
+            width:100%;
+            height:12rem;
+            margin: -4rem 0 0 -2rem;
+            
+            
+            color:gray;
+            h1{
+                color: rgb(16, 16, 16);
+                margin: -0.5rem 0 1rem 0;
+                font-family: "Inter",sans-serif;
+            }
+        
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 1rem 0;
+                font-size: 1.3rem;
+                font-weight: 100;
+            }
+
+            #mew{
+                display: flex;
+                justify-content: space-between;
+                width: 63%;
+                margin: 1.6rem 0 0 0;
+            
+            }
+        }
+
+    }
+}
+
+
+@media only screen and (min-width:769px) and (max-width :1024px){
+        #kettle{
+        width:95%;
+        margin:14rem auto 0;
+        height:auto;
+        
+        
+
+        #pot{
+            width:99%;
+            height:26rem;
+            margin: 0 8rem 0 0;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+        #pretty{
+            width:100%;
+            height:12rem;
+            margin: 2.3rem 0 0 0;
+            
+            
+            color:rgb(74, 73, 73);
+            h1{
+                color: rgb(16, 16, 16);
+                margin: 0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+            }
+        
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 1rem 0;
+                font-size: 1.3rem;
+                font-weight: 100;
+            }
+
+            #mew{
+                margin: 1.6rem 0 0 0;
+            
+            }
+        }
+
+    }
+}
+
+
+@media only screen and (min-width :600px) and (max-width :768px) {
+       #kettle{
+        width:95%;
+        margin:14rem auto 0;
+        height:auto;
+        
+        
+
+        #pot{
+            width:99%;
+            height:19rem;
+            margin: 0 8rem 0 0;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+        #pretty{
+            width:98%;
+            height:12rem;
+            margin: 2.3rem 0 0 0;
+            
+            
+            color:rgb(172, 171, 171);
+            h1{
+                color: rgb(16, 16, 16);
+                margin: 0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.6rem;
+            }
+        
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 1rem 0;
+                font-size: 1.2rem;
+                font-weight: 100;
+            }
+
+            #mew{
+                margin: 1.6rem 0 0 0;
+            
+            }
+        }
+
+    }
+}
+
+@media only screen and (min-width:481px) and (max-width :599px){
+           #kettle{
+        width:95%;
+        margin:13rem auto 0;
+        height:auto;
+        
+        
+
+        #pot{
+            width:95%;
+            height:16rem;
+            margin: 0 auto;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+        #pretty{
+            width:95%;
+            height:12rem;
+            margin: 2.3rem auto;
+            
+            
+            color:rgb(95, 95, 95);
+            h1{
+                color: rgb(16, 16, 16);
+                margin: 0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.5rem;
+            }
+        
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 1rem 0;
+                font-size: 1.2rem;
+                font-weight: 100;
+            }
+
+            #mew{
+                margin: 1.6rem 0 0 0;
+            
+            }
+        }
+
+    }
+}
+
+
+@media only screen and (min-width:320px) and (max-width :480px){
+          #kettle{
+        width:95%;
+        margin:13rem auto 0;
+        height:auto;
+        
+        
+
+        #pot{
+            width:90%;
+            height:10rem;
+            margin: 0 auto;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+        #pretty{
+            width:90%;
+            height:12rem;
+            margin: 2.3rem auto;
+            
+            
+            color:rgb(95, 95, 95);
+            h1{
+                color: rgb(16, 16, 16);
+                margin: 0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.4rem;
+            }
+        
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 1rem 0;
+                font-size: 1.2rem;
+                font-weight: 100;
+            }
+
+            #mew{
+                margin: 1.6rem 0 0 0;
+            
+            }
+        }
+
+    }
+}

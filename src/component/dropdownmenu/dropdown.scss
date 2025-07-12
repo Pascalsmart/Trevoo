@@ -1,0 +1,1969 @@
+@media only screen and (min-width:320px) and (max-width:768px){
+    #bignav{
+        display:none;
+    }
+}
+
+
+@media only screen and (min-width:1201px){
+
+    .nonee{
+        display:none;
+    }
+
+
+
+    .unpar{
+
+        display:block;
+        width:100%;
+        height:50rem;
+        background:white;
+        position:absolute;
+        top:0;
+        animation-name:undropper;
+        animation-duration:1s;
+        animation-fill-mode:forwards;
+
+        @keyframes undropper{
+            from{
+                height:50rem;
+                top:0;
+                display:block;
+            }
+
+            to{
+                height:0;
+                top:-50rem;
+                display:none;
+            }
+        }
+
+        
+
+        #desk{
+        width:100%;
+    
+        border:none;
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 0 auto ;
+
+
+
+        #light{
+        width:75%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 30%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+            p{
+                font-size: 1.5rem;
+                transition: 0.4s ease-in-out;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 2.5rem;
+                width: 12%;
+                border-radius: 50%;
+            }
+            p:hover{
+                background: rgb(233, 232, 232);
+
+
+            }
+
+        }
+
+       
+    }
+
+}
+      #tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 50rem;
+    
+    
+
+
+    #spoil{
+        width: 75%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+
+
+        #friend{
+            height: 37rem;
+            width: 74.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 65%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+
+    }
+
+
+    .par{
+
+        width:100%;
+        height:0;
+        background:white;
+        position:absolute;
+        top:-50rem;
+        animation-name:dropper;
+        animation-duration:1s;
+        animation-fill-mode:forwards;
+
+        @keyframes dropper{
+            from{
+                height:0;
+                top:-50rem;
+            }
+
+            to{
+                height:50rem;
+                top:0
+            }
+        }
+
+        
+
+        #desk{
+        width:100%;
+    
+        border:none;
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 0 auto ;
+
+
+
+        #light{
+        width:75%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 30%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+            p{
+                font-size: 1.5rem;
+                transition: 0.4s ease-in-out;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 2.5rem;
+                width: 12%;
+                border-radius: 50%;
+                margin: 0 1.2rem 0 0;
+            }
+            p:hover{
+                background: rgb(233, 232, 232);
+
+
+            }
+
+        }
+
+       
+    }
+
+}
+#tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 50rem;
+    
+    
+
+
+    #spoil{
+        width: 75%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+
+
+        #friend{
+            height: 37rem;
+            width: 74.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 65%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+
+    }
+
+
+        
+    }
+
+    @media only screen and (min-width: 769px) and (max-width:1024px){
+
+        #desk{
+        width:100%;
+    
+        border:none;
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 1rem auto 0;
+
+
+
+        #light{
+        width:75%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 30%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+        }
+
+       
+    }
+
+}
+#tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 50rem;
+    
+    
+
+
+    #spoil{
+        width: 75%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+
+
+        #friend{
+            height: 37rem;
+            width: 74.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 65%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+    }
+        
+
+    
+
+
+     
+
+
+
+
+@media only screen and (min-width:1025px) and (max-width:1200px){
+
+    .nonee{
+        display:none;
+    }
+
+
+    .unpar{
+
+        display:block;
+        width:100%;
+        height:60rem;
+        background:white;
+        position:absolute;
+        top:0;
+        animation-name:undropper;
+        animation-duration:1s;
+        animation-fill-mode:forwards;
+
+        @keyframes undropper{
+            from{
+                height:60rem;
+                top:0;
+                display:block;
+            }
+
+            to{
+                height:0;
+                top:-60rem;
+                display:none;
+            }
+        }
+
+
+
+
+    #desk{
+        width:100%;
+     
+    
+        
+        height: 60rem;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 0 auto;
+        
+
+
+
+        #light{
+        width:97%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 36%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+             p{
+                font-size: 1.5rem;
+                transition: 0.4s ease-in-out;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 2.5rem;
+                width: 12%;
+                border-radius: 50%;
+            }
+            p:hover{
+                background: rgb(233, 232, 232);
+
+
+            }
+
+        }
+
+       
+    }
+
+}
+#tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 60rem;
+    
+    
+
+
+    #spoil{
+        width: 95%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+        
+        
+
+
+        #friend{
+            height: 37rem;
+            width: 100%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+        
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 65%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+                
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            display: none;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+}
+
+.par{
+
+        width:100%;
+        height:0;
+        background:white;
+        position:absolute;
+        top:-60rem;
+        animation-name:dropper;
+        animation-duration:1s;
+        animation-fill-mode:forwards;
+
+        @keyframes dropper{
+            from{
+                height:0;
+                top:-60rem;
+            }
+
+            to{
+                height:60rem;
+                top:0
+            }
+        }
+
+    #desk{
+        width:100%;
+     
+    
+        border:none;
+        height: 60rem;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 0 auto;
+
+
+
+        #light{
+        width:97%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 36%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+
+             p{
+                font-size: 1.5rem;
+                transition: 0.4s ease-in-out;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 2.5rem;
+                width: 12%;
+                border-radius: 50%;
+                margin: 0 1rem 0 0;
+            }
+            p:hover{
+                background: rgb(233, 232, 232);
+
+
+            }
+
+
+        }
+
+       
+    }
+
+}
+#tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 60rem;
+    
+    
+
+
+    #spoil{
+        width: 95%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+        
+        
+
+
+        #friend{
+            height: 37rem;
+            width: 100%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+        
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 65%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+                
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            display: none;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+}
+}
+
+
+@media only screen and (min-width: 769px) and (max-width:1024px){
+          
+.nonee{
+    display: none;
+}
+.unpar{
+
+        display:block;
+        width:100%;
+        height:60rem;
+        background:white;
+        position:absolute;
+        top:0;
+        animation-name:undropper;
+        animation-duration:1s;
+        animation-fill-mode:forwards;
+
+        @keyframes undropper{
+            from{
+                height:60rem;
+                top:0;
+                display:block;
+            }
+
+            to{
+                height:0;
+                top:-60rem;
+                display:none;
+            }
+        }
+
+
+         #desk{
+        width:100%;
+     
+    
+        border:none;
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 0 auto;
+
+
+
+        #light{
+        width:97%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 49%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+            p{
+                font-size: 1.5rem;
+                transition: 0.4s ease-in-out;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 2.5rem;
+                width: 12%;
+                border-radius: 50%;
+                margin: 0 2rem 0 0;
+            }
+            p:hover{
+                background: rgb(233, 232, 232);
+
+
+            }
+
+
+        }
+
+       
+    }
+
+}
+#tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 60rem;
+    
+    
+
+
+    #spoil{
+        width: 95%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+        
+        
+
+
+        #friend{
+            height: 37rem;
+            width: 100%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+        
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 85%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+                
+                
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            display: none;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+}
+
+
+
+    .par{
+
+        width:100%;
+        height:0;
+        background:white;
+        position:absolute;
+        top:-60rem;
+        animation-name:dropper;
+        animation-duration:1s;
+        animation-fill-mode:forwards;
+
+        @keyframes dropper{
+            from{
+                height:0;
+                top:-60rem;
+            }
+
+            to{
+                height:60rem;
+                top:0
+            }
+        }
+
+    
+    #desk{
+        width:100%;
+     
+    
+        border:none;
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+        color: black;
+        margin: 0 auto;
+
+
+
+        #light{
+        width:97%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #ifini{
+            width: 49%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: black;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: black;
+                color: white;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+            p{
+                font-size: 1.5rem;
+                transition: 0.4s ease-in-out;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 2.5rem;
+                width: 12%;
+                border-radius: 50%;
+                margin: 0 1rem 0 0;
+            }
+            p:hover{
+                background: rgb(233, 232, 232);
+
+
+            }
+
+
+        }
+
+       
+    }
+
+}
+#tick{
+    position: absolute;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 60rem;
+    
+    
+
+
+    #spoil{
+        width: 95%;
+        margin: 6rem auto;
+        display: flex;
+        justify-content: space-between;
+        height: 37rem;
+        
+        
+
+
+        #friend{
+            height: 37rem;
+            width: 100%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem ;
+        
+
+            #of{
+                display: flex;
+                justify-content: center;
+                width: 85%;
+                height: 3rem;
+                color: black;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 2rem 0 0 1.3rem;
+                
+                
+
+                h3{
+                    font-size: 0.9rem;
+                    margin: 0 auto;
+                    display: flex;
+                    justify-content: center;
+                    padding:0 2% 0 2%;
+                    height: 2rem;
+                    border-radius:0.5rem;
+                    align-items:center;
+                    transition:all 0.4s ease-in-out;
+                
+                }
+
+                h3:hover{
+                    background: white;
+                    cursor: pointer;
+                }
+
+
+            }
+
+
+            #para{
+                display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 89%;
+                margin: 1.5rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+                
+                
+
+                #thank{
+                    h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+                }
+            }
+        }
+
+            #nurse{
+                 display: flex;
+                justify-content: space-between;
+                color: black;
+                width: 80%;
+                margin: 4rem 0 0 2.8rem;
+                font-family: "Inter",sans-serif;
+
+                #goat{
+                        h3{
+                    font-size: 0.9rem;
+                }
+                p{
+                color: rgb(36, 36, 36);
+                font-size: 0.9rem;
+                margin: 1rem 0 0 0;
+                font-weight: 100;
+
+            }
+                
+
+        }
+            
+
+        
+    }
+    }
+
+        #enemy{
+            height: 37rem;
+            width: 24.5%;
+            background: rgb(221, 221, 221);
+            border-radius: 1rem;
+            align-items: center;
+            display: none;
+            
+
+            #trend{
+                margin: 0 auto;
+                font-family: "Inter",sans-serif;
+                align-items: center;
+                margin: 1.7rem 0 0 1rem;
+                width: 77%;
+                
+                
+
+
+                 #turn{
+                    margin: 2.3rem 0 0 1rem;
+                        h3{
+                    font-size: 0.9rem;
+                    color: black;
+                }
+                p{
+                color: rgb(66, 66, 66);
+                font-size: 0.8rem;
+                margin: 0.3rem 0 0 0;
+                font-weight: 100;
+
+            }
+        }
+
+            }
+            
+        }
+
+
+        
+    }
+
+
+
+    }
+}
+}
+

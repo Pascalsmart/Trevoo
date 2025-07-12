@@ -1,0 +1,221 @@
+/*THIS IS THE STYLING FOR DEVICE WIDTH 769PX TILL ......*/
+
+@media only screen and (min-width:769px){
+    #smallnav{
+        display:none;
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width:480px){
+
+    #smallnav{
+        width: 100%;
+        height: auto;
+          background:linear-gradient(to right, 
+    rgb(133, 132, 132) 0%,           /* solid black at far left */
+    rgba(142, 141, 141, 0.7) 20%,    /* still quite dark */
+    rgba(143, 141, 141, 0.3) 100%,    /* fading */
+    rgba(129, 127, 127, 0.1) 60%,    /* very light */
+    rgba(167, 164, 164, 0) 90%      /* fully transparent */
+    );
+        position: fixed;
+        box-shadow: 10px 8px 5px 10px rgba(141, 141, 141, 0.7);
+        z-index:2000;
+        
+
+
+
+        #wealth{
+        width: 90%;
+        height: 4rem;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+        h1{
+            color:whitesmoke;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 2rem;
+            
+        }
+
+        #gate{
+            width: 40%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+              img{
+                height: 20px;
+                width: 20px;
+                margin: 0 1.2rem 0 0.7rem;
+            }
+
+             #land{
+                
+                font-family: 'Inter',sans-serif;
+                color: white;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+                font-size: 1rem;
+
+                option{
+                    display: none;
+                }
+            }
+        }
+    }
+
+}
+
+
+
+
+
+    }
+
+    
+
+@media only screen and (min-width: 481px) and (max-width:599px){
+
+
+    #smallnav{
+        width:100%;
+        background:linear-gradient(to right, 
+    rgb(87, 87, 87) 0%,           /* solid black at far left */
+    rgba(95, 94, 94, 0.7) 20%,    /* still quite dark */
+    rgba(118, 116, 116, 0.3) 100%,    /* fading */
+    rgba(192, 192, 192, 0.1) 60%,    /* very light */
+    rgba(185, 183, 183, 0) 90%      /* fully transparent */
+    );
+        position: fixed;
+        box-shadow: 10px 8px 5px 10px rgba(97, 96, 96, 0.7);
+        z-index:2000;
+
+
+
+
+        #wealth{
+        width: 90%;
+        height: 4rem;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+        h1{
+            color:whitesmoke;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 1.4rem;
+            
+        }
+
+        #gate{
+            width: 25%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+              img{
+                height: 20px;
+                width: 20px;
+                margin: 0 0.5rem 0 0;
+            }
+
+             #land{
+                
+                font-family: 'Inter',sans-serif;
+                color: white;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+                font-size: 1rem;
+
+                option{
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+    }
+ 
+
+@media only screen and (min-width: 600px) and (max-width:768px){
+
+    #smallnav{
+        width: 100%;
+        height: auto;
+        background:linear-gradient(to right, 
+    rgb(87, 87, 87) 0%,           /* solid black at far left */
+    rgba(95, 94, 94, 0.7) 20%,    /* still quite dark */
+    rgba(118, 116, 116, 0.3) 100%,    /* fading */
+    rgba(192, 192, 192, 0.1) 60%,    /* very light */
+    rgba(185, 183, 183, 0) 90%      /* fully transparent */
+    );
+        position: fixed;
+        box-shadow: 10px 8px 5px 10px rgba(97, 96, 96, 0.7);
+        z-index: 1000;
+        
+
+
+        #wealth{
+        width: 94%;
+        height: 4rem;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+        h1{
+            color:whitesmoke;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 1.5rem;
+            
+        }
+
+        #gate{
+            width: 18%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+              img{
+                height: 20px;
+                width: 20px;
+                margin: 0 0.3rem 0 0;
+            }
+
+             #land{
+                
+                font-family: 'Inter',sans-serif;
+                color: white;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+                font-size: 1rem;
+
+                option{
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+    }
+    
+ 

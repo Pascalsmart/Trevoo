@@ -1,0 +1,381 @@
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 1201PX TILL ...*/
+
+@media only screen and (min-width:1201px){
+    #core{
+        background: rgba(8, 8, 8, 0.666);
+        height: 50rem;
+        width:100%;
+        margin:10rem auto 0;
+        align-items: center;
+        display: flex;
+        
+
+        
+    #room{
+        width:75%;
+        margin:5rem auto 0;
+        height:auto;
+        display:flex;
+        justify-content:space-between;
+
+        #case{
+             width:127%;
+            height:37rem;
+            margin: 0 7rem 0 0;
+
+            img{
+                 width:99%;
+                height:99%;
+                border-radius:0.5rem;
+            }
+
+
+         }
+
+        #set{
+             width:95%;
+            height:25rem;
+            color:white;
+            
+            
+
+
+              h1{
+                color:white;
+                margin: 8.5rem 0 1rem 0;
+            }
+            p{
+                font-size: 1.3rem;
+                margin: 0 0 1rem 0;
+            }
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 400;
+                margin: 0 0 2rem 0;
+                font-size: 1.3rem;
+            }
+        }
+
+
+        }
+    }
+}
+
+@media only screen and (min-width:1025px) and (max-width:1200px){
+    #core{
+        background: rgba(0, 0, 255, 0.666);
+        height: 45rem;
+        width:100%;
+        margin:10rem auto 0;
+        align-items: center;
+        display: flex;
+        
+
+        
+    #room{
+        width:95%;
+        margin:5rem auto 0;
+        height:auto;
+        display:flex;
+        justify-content:space-between;
+
+        #case{
+             width:127%;
+            height:31rem;
+            margin: 0 7rem 0 0;
+
+            img{
+                 width:100%;
+                height:100%;
+                border-radius:0.5rem;
+            }
+
+
+         }
+
+        #set{
+             width:95%;
+            height:25rem;
+            color:white;
+            
+            
+
+
+              h1{
+                color:white;
+                margin: 5rem 0 1rem 0;
+            }
+            p{
+                font-size: 1.3rem;
+                margin: 0 0 1rem 0;
+            }
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 400;
+                margin: 0 0 2rem 0;
+                font-size: 1.3rem;
+            }
+        }
+
+
+        }
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width :1024px){
+ #core{
+        background: rgba(0, 0, 255, 0.666);
+        height: 70rem;
+        width:100%;
+        margin:5rem auto 0;
+        align-items: center;
+        display: flex;
+        
+
+        
+    #room{
+        width:95%;
+        margin:5rem auto 0;
+        height:auto;
+
+        
+
+        #case{
+             width:100%;
+            height:43rem;
+            margin: 0 7rem 0 0;
+
+            img{
+                 width:100%;
+                height:100%;
+                border-radius:0.5rem;
+            }
+
+
+         }
+
+        #set{
+             width:95%;
+            height:25rem;
+            color:white;
+            
+            
+
+
+              h1{
+                color:white;
+                margin: 3rem 0 1rem 0;
+            }
+            p{
+                font-size: 1.3rem;
+                margin: 0 0 1rem 0;
+            }
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 400;
+                margin: 0 0 2rem 0;
+                font-size: 1.3rem;
+            }
+        }
+
+
+        }
+    }   
+}
+
+@media only screen and (min-width :600px) and (max-width :768px) {
+    #core{
+        background: rgba(0, 0, 255, 0.666);
+        height: 65rem;
+        width:100%;
+        margin:5rem auto 0;
+        align-items: center;
+        display: flex;
+        
+
+        
+    #room{
+        width:95%;
+        margin:5rem auto 0;
+        height:auto;
+
+        
+
+        #case{
+             width:100%;
+            height:36rem;
+            margin: 0 7rem 0 0;
+
+            img{
+                 width:100%;
+                height:100%;
+                border-radius:0.5rem;
+            }
+
+
+         }
+
+        #set{
+             width:95%;
+            height:25rem;
+            color:white;
+            
+            
+
+
+              h1{
+                color:white;
+                font-size: 1.5rem;
+                margin: 1.8rem 0 1rem 0;
+            }
+            p{
+                font-size: 1.3rem;
+                margin: 0 0 1rem 0;
+            }
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 400;
+                margin: 0 0 2rem 0;
+                font-size: 1.3rem;
+            }
+        }
+
+
+        }
+    }   
+}
+
+@media only screen and (min-width:481px) and (max-width :599px){
+    #core{
+        background: rgba(0, 0, 255, 0.666);
+        height: 55rem;
+        width:100%;
+        margin:5rem auto 0;
+        align-items: center;
+        display: flex;
+        
+
+        
+    #room{
+        width:95%;
+        margin:5rem auto 0;
+        height:auto;
+
+        
+
+        #case{
+             width:99%;
+            height:28rem;
+            margin: 0 7rem 0 0;
+
+            img{
+                 width:100%;
+                height:100%;
+                border-radius:0.5rem;
+            }
+
+
+         }
+
+        #set{
+             width:95%;
+            height:25rem;
+            color:white;
+            
+            
+
+
+              h1{
+                color:white;
+                font-size: 1.5rem;
+                margin: 1.8rem 0 1rem 0;
+            }
+            p{
+                font-size: 1.2rem;
+                margin: 0 0 1rem 0;
+            }
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 400;
+                margin: 0 0 2rem 0;
+                font-size: 1.2rem;
+            }
+        }
+
+
+        }
+    }   
+
+
+    
+}
+
+@media only screen and (min-width:320px) and (max-width :480px){
+        #core{
+        background: rgba(0, 0, 255, 0.666);
+        height: 49rem;
+        width:100%;
+        margin:11rem auto 0;
+        align-items: center;
+        display: flex;
+        
+
+        
+    #room{
+        width:95%;
+        margin:5rem auto 0;
+        height:auto;
+
+        
+
+        #case{
+             width:97%;
+            height:18rem;
+            margin: 0 7rem 0 0;
+
+            img{
+                 width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                min-width: 306px;
+            }
+
+
+         }
+
+        #set{
+             width:93%;
+            height:25rem;
+            color:white;
+            margin: 0 auto;
+            
+            
+
+
+              h1{
+                color:white;
+                font-size: 1.4rem;
+                margin: 1.8rem 0 1rem 0;
+            }
+            p{
+                font-size: 1.2rem;
+                margin: 0 0 1rem 0;
+            }
+
+            h3{
+                font-family: "Inter",sans-serif;
+                font-weight: 400;
+                margin: 0 0 2rem 0;
+                font-size: 1.2rem;
+            }
+        }
+
+
+        }
+    }   
+}

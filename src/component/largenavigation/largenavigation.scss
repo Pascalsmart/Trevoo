@@ -1,0 +1,292 @@
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 320PX TILL 768PX*/
+
+@media only screen and (min-width:320px) and (max-width:768px){
+    #bignav{
+        display:none;
+    }
+}
+
+
+
+@media only screen and (min-width:1201px){
+
+    #bignav{
+        width:100%;
+        background:linear-gradient(to right, 
+    rgba(87, 86, 86, 0.7) 0%,           /* solid black at far left */
+    rgba(87, 86, 86, 0.7) 20%,    /* still quite dark */
+    rgba(81, 81, 81, 0.3) 100%,    /* fading */
+    rgba(159, 158, 158, 0.1) 60%,    /* very light */
+    rgba(148, 148, 148, 0) 90%      /* fully transparent */
+    );
+        border:none;
+        box-shadow: 10px 10px 5px 5px rgba(87, 86, 86, 0.7);
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+        
+
+
+
+        #fixed{
+        width:75%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:white;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #menus{
+            width: 30%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: white;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: white;
+                color: black;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+        }
+
+       
+    }
+
+}
+    }
+
+    
+
+@media only screen and (min-width: 1025px) and (max-width:1200px){
+        #bignav{
+        width:100%;
+        background:linear-gradient(to right, 
+    rgb(95, 94, 94) 0%,           /* solid black at far left */
+    rgba(87, 86, 86, 0.7) 20%,    /* still quite dark */
+    rgba(81, 81, 81, 0.3) 50%,    /* fading */
+    rgba(60, 60, 60, 0.1) 80%,    /* very light */
+    rgba(74, 74, 74, 0) 100%      /* fully transparent */
+  );
+        border:none;
+        box-shadow: -5px 0 8px -5px rgba(0, 0, 0, 0.25) ,50px 0 60px -10px rgba(0, 0, 0, 0.7);
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+
+
+         #fixed{
+        width:97%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:whitesmoke;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #menus{
+            width: 36%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: white;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: white;
+                color: black;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+        }
+
+       
+    }
+}
+
+
+        }
+    
+    
+    
+@media only screen and (min-width: 769px) and (max-width:1024px){
+
+     #bignav{
+         width:100%;
+        background:linear-gradient(to right, 
+    rgb(95, 94, 94) 0%,
+    transparent           /* solid black at far left */
+    rgba(87, 86, 86, 0.7) 20%,    /* still quite dark */
+    rgba(81, 81, 81, 0.3) 50%,    /* fading */
+    rgba(60, 60, 60, 0.1) 80%,    /* very light */
+    rgba(74, 74, 74, 0) 100%      /* fully transparent */
+  ) transparent;
+        border:none;
+        box-shadow: none;
+        height: auto;
+        position: fixed;
+        z-index: 1000;
+
+
+
+               #fixed{
+        width:97%;
+        height:4rem;
+        margin:0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+         h1{
+            color:whitesmoke;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+        }
+
+        #menus{
+            width: 49%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            img{
+                height: 22px;
+                width: 22px;
+                margin: 0 1.5rem 0 0;
+            }
+
+            #h4{
+                
+                font-family: 'Inter',sans-serif;
+                color: white;
+                outline: none;
+                border: none;
+                font-weight: bold;
+                background: none;
+
+                option{
+                    display: none;
+                }
+                
+
+            }
+            h3{
+                width: 5%;
+                font-size:0.9rem ;
+                margin: 0 0 0 1rem;
+                font-family: 'Inter',sans-serif;
+            }
+            button{
+                height: 2.2rem;
+                border-radius: 1.3rem;
+                background-color: white;
+                color: black;
+                font-weight: bold;
+                font-family: 'Inter',sans-serif;
+                width: 25%;
+                outline: none;
+                border: none;
+                margin: 0 0 0 2.5rem;
+                font-size: 0.8rem;
+            }
+
+        }
+
+       
+    }
+}
+     }
+ 
+
+
+
+
+
+
+
+
+

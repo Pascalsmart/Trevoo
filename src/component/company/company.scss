@@ -1,0 +1,368 @@
+
+
+ @media only screen and (min-width: 1201px){
+#logo{
+        width:75%;
+        margin:11rem auto 0;
+        height:auto;
+        display:flex;
+        justify-content:space-between;
+        
+
+        #items{
+            width:140%;
+            height:19rem;
+            margin: 0 8rem 0 0;
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+         #issue{
+            width:110%;
+            height:15rem;
+            margin: 5rem auto;
+
+             h1{
+                color: rgb(16, 16, 16);
+                margin:  0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+            }
+        
+
+            p{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 0.5rem 0;
+                font-size: 1.3rem;
+                color: rgb(103, 102, 102);
+            }
+
+            a{
+                color: rgb(67, 153, 50);
+                font-size: 1.3rem;
+                text-decoration: none;
+
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+
+         }   
+
+
+    }   
+    
+}
+
+
+
+    @media only screen and (min-width: 1025px) and (max-width:1200px){
+        #logo{
+        width:95%;
+        margin:11rem auto 0;
+        height:auto;
+        display:flex;
+        justify-content:space-between;
+        
+
+        #items{
+            width:110%;
+            height:15rem;
+            margin: 0 7rem 0 0;
+            
+            
+            img{
+                width:99%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+         #issue{
+            width:100%;
+            height:15rem;
+            margin: 4rem auto;
+            
+
+             h1{
+                color: rgb(16, 16, 16);
+                margin:  0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+            }
+        
+
+            p{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 0.5rem 0;
+                font-size: 1.3rem;
+                color: rgb(103, 102, 102);
+            }
+
+            a{
+                color: rgb(67, 153, 50);
+                font-size: 1.3rem;
+                text-decoration: none;
+
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+
+        }
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width :1024px){
+
+       #logo{
+        width:95%;
+        margin:11rem auto 0;
+        height:auto;
+        
+        
+
+        #items{
+            width:100%;
+            height:25rem;
+            margin: 0 7rem 0 0;
+            
+            
+            img{
+                width:99%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+         #issue{
+            width:100%;
+            height:15rem;
+            margin: 2.9rem 0 0 0;
+            
+
+             h1{
+                color: rgb(16, 16, 16);
+                margin:  0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.5rem;
+            }
+        
+
+            p{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 0.2rem 0;
+                font-size: 1.2rem;
+                color: rgb(103, 102, 102);
+            }
+
+            a{
+                color: rgb(67, 153, 50);
+                font-size: 1.3rem;
+                text-decoration: none;
+
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+
+        }
+    }
+}
+
+@media only screen and (min-width :600px) and (max-width :768px) {
+      #logo{
+        width:95%;
+        margin:11rem auto 0;
+        height:auto;
+        
+        
+
+        #items{
+            width:100%;
+            height:19rem;
+            margin: 0 7rem 0 0;
+            
+            
+            img{
+                width:99%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+         #issue{
+            width:100%;
+            height:15rem;
+            margin: 2.9rem auto;
+            
+
+             h1{
+                color: rgb(16, 16, 16);
+                margin:  0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.5rem;
+            }
+        
+
+            p{
+                font-family: "Inter",sans-serif;
+                font-weight: 200;
+                margin: 0 0 0.2rem 0;
+                font-size: 1.2rem;
+                color: rgb(103, 102, 102);
+            }
+
+            a{
+                color: rgb(67, 153, 50);
+                font-size: 1.3rem;
+                text-decoration: none;
+
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+
+        }
+    }
+}
+
+
+@media only screen and (min-width:481px) and (max-width :599px){
+     #logo{
+        width:95%;
+        margin:7rem auto 0;
+        height:auto;
+        
+        
+
+        #items{
+            width:96%;
+            height:16rem;
+            margin: 0 auto;
+            
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+         #issue{
+            width:96%;
+            height:15rem;
+            margin: 2.9rem auto;
+            
+
+             h1{
+                color: rgb(16, 16, 16);
+                margin:  0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.5rem;
+            }
+        
+
+            p{
+                font-family: "Inter",sans-serif;
+                font-weight: bold;
+                margin: 0 0 0.2rem 0;
+                font-size: 1.2rem;
+                color: rgb(103, 102, 102);
+            }
+
+            a{
+                color: rgb(67, 153, 50);
+                font-size: 1.3rem;
+                text-decoration: none;
+
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+
+        }
+    }
+}
+
+
+@media only screen and (min-width:320px) and (max-width :480px){
+
+    #logo{
+        width:95%;
+        margin:3rem auto 0;
+        height:auto;
+        
+        
+
+        #items{
+            width:94%;
+            height:10rem;
+            margin: 0 auto;
+            
+            
+            img{
+                width:100%;
+                height:100%;
+                border-radius:0.5rem;
+                
+            }
+
+            
+        }
+
+         #issue{
+            width:94%;
+            height:15rem;
+            margin: 2.9rem auto;
+            
+
+             h1{
+                color: rgb(16, 16, 16);
+                margin:  0 0 1rem 0;
+                font-family: "Inter",sans-serif;
+                font-size: 1.4rem;
+            }
+        
+
+            p{
+                font-family: "Inter",sans-serif;
+                font-weight: bold;
+                margin: 0 0 0.2rem 0;
+                font-size: 1.1rem;
+                color: rgb(103, 102, 102);
+            }
+
+            a{
+                color: rgb(67, 153, 50);
+                font-size: 1.2rem;
+                text-decoration: none;
+
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+
+        }
+    }
+}
