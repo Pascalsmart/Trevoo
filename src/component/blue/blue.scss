@@ -320,7 +320,7 @@
         background: rgba(0, 0, 255, 0.666);
         height: 49rem;
         width:100%;
-        margin:11rem auto 0;
+        margin:8rem auto 0;
         align-items: center;
         display: flex;
         
@@ -335,7 +335,7 @@
 
         #case{
              width:97%;
-            height:18rem;
+            height:23rem;
             margin: 0 7rem 0 0;
 
             img{
@@ -343,6 +343,7 @@
                 height:100%;
                 border-radius:0.5rem;
                 min-width: 306px;
+                object-fit: cover;
             }
 
 
